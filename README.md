@@ -1,8 +1,7 @@
 # Fconnect
 This app  will  allow people to pulish ,  order their site web and communicate
 # step 1 :  
-   .Work inside the Logs Folder and test it in app.js
-
+   . Work inside the Logs Folder and test it in app.js
   .please build a register  Design as sent to you. 
   .build a login  page as   Design as been sent to you. 
 after that: 
